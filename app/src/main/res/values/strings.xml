@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidCurso</string>
+    <string name="tiempo_juego">"Game took %s to complete"</string>
+    <string name="no_persons">There are no people in the list</string>
+    <string name="no_stats">There are no statistics</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="username_key">USERNAME</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+</resources>

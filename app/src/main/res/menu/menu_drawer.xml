@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/gameFragment"
+            android:icon="@drawable/ic_game"
+            android:title="Game">
+
+        </item>
+
+        <item
+            android:id="@+id/statsFragment"
+            android:icon="@drawable/ic_stats"
+            android:title="Stats">
+
+        </item>
+
+        <item
+            android:id="@+id/calcFragment"
+            android:icon="@drawable/ic_calculator"
+            android:title="Calculator">
+
+        </item>
+
+        <item
+            android:id="@+id/locationFragment"
+            android:icon="@drawable/ic_location"
+            android:title="Location">
+
+        </item>
+    </group>
+</menu>
